@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **varshithachalla18@gmail.com**
 
-- ⚡ Fun fact **I think for conplex problem solving**
+- ⚡ Fun fact **I think for complex problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
