@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshitha Challa</h1>
+
 <h3 align="center">Exploring the world of Artificial Intelligence through code, creativity, and curiosity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshitha" alt="varshitha" /></a> </p>
 
 - 🌱 I’m currently learning **Data Engineering Course**
 
@@ -16,8 +14,56 @@
 - 📫 How to reach me **varshithachalla18@gmail.com**
 
 - ⚡ Fun fact **I think for complex problem solving**
+  
+## 🎓 Education  
 
-<h3 align="left">Connect with me:</h3>
+🎓 **[Bachelor's Degree]** – [Parul University]  📅 *2021 – 2025*  
+- Branch - Computer Science And Engineering in **Artifical Intelligence** Specialization
+- CGPA/Percentage: 8.52/10 
+
+🎓 **[Intermediate]** – [Sri Gayatri Junior College]  📅 *2019 – 2021*  
+- Field - Mathematics,Physics,Chemistry
+- CGPA/Percentage: 970/1000
+
+🎓 **[Secondary School]** – [Montessori High School]  📅 * – 2019*  
+- CGPA/Percentage: 9.5/10
+  
+ ## 🏢 Experience  
+
+   **Spinmark Infotech** – **Data Analyst** 
+📅 **Dec 2024 – Mar 2025** 
+- Built a machine learning pipeline for financial fraud detection, handling data preprocessing, model training, and
+evaluation, which improved accuracy by 25%.
+- Managed data warehouse operations, including schema design and data integration, to streamline analytics
+workflows.
+- Performed large‑scale data cleaning and transformation in Databricks, boosting fraud detection performance by
+33%.
+- Automated reporting processes with Python and Shell scripts to monitor data pipelines and ensure data quality.  
+
+## 🛠️ Skills  
+
+### Programming Language
+- Python | SQL | JAVA
+
+### Databases  
+- MySQL | MongoDB  
+
+### Tools & Technologies  
+- Git & Github | Tableau |VS Code
+
+### Soft Skills  
+- Problem Solving | Communication | Teamwork | Time Management
+
+
+## 📜 Certifications  
+
+- Azure Fundamentals - Microsoft
+- Python 101 for Data Science-IBM
+- Basics of python - Infosys Springboard
+- Time Management - Infosys Springboard
+- Australia Data Analytics Job Simulation - Deloitte
+
+
 <p align="left">
 </p>
 
